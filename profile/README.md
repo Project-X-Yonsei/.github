@@ -46,12 +46,12 @@ Our club is composed of the following divisions:
 
 ## 💡 Executive Team
 
-- **President**: Yerin Lee  
-- **Vice President**: Minwoo Kang  
+- **President**: [Yelin Lee](https://github.com/leeyelin829)  
+- **Vice President**: [Minwoo Kang](https://github.com/KoreaMonster)  
 
 ### Division Leaders  
 - **Planning Division**: Eunho Choi, Junhyeon Jeon  
-- **Development Division**: Seonjun Hwang, Inchang Han, Oseong Shin  
+- **Development Division**: [Seonjun Hwang](https://github.com/justinbrianhwang), Inchang Han, Oseong Shin  
 - **Marketing Division**: Yujin Choi, Seoyoung Kim  
 > The executive team and individual project teams will be updated as the club grows! 
 
