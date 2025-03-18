@@ -51,7 +51,7 @@ Our club is composed of the following divisions:
 
 ### Division Leaders  
 - **Planning Division**: Eunho Choi, Junhyeon Jeon  
-- **Development Division**: [Seonjun Hwang](https://github.com/justinbrianhwang), Inchang Han, Oseong Shin  
+- **Development Division**: [Seonjun Hwang](https://github.com/justinbrianhwang), Inchan Han, Oseong Shin  
 - **Marketing Division**: Yujin Choi, Seoyoung Kim  
 > The executive team and individual project teams will be updated as the club grows! 
 
