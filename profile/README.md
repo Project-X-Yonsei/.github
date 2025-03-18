@@ -72,7 +72,7 @@ Feel free to contact us for more information.
 ---
 # Project Lists
 - [TeachUs](https://github.com/Project-X-Yonsei/TeachUs)
-- [Hydro Nutri](https://github.com/Project-X-Yonsei/Hydro-Nutri)
+- [Hydro Nutri](https://github.com/HydroNutri)
 - [Macro](https://github.com/Project-X-Yonsei/Macro)
 - [Cheese](https://github.com/Project-X-Yonsei/Cheese)
 - [Taxi Sharing](https://github.com/Project-X-Yonsei/taxi-sharing)
