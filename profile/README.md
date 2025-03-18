@@ -63,3 +63,15 @@ Are you ready to bring your ideas to life?
 At **Project X**, we’re here to help you turn your vision into reality. Whether you're full of ideas or just looking for a chance to learn and grow, we welcome you to join us on this journey!  
 
 Feel free to contact us for more information.
+
+---
+# Project Lists
+- [TeachUs](https://github.com/Project-X-Yonsei/TeachUs)
+- [Hydro Nutri](https://github.com/Project-X-Yonsei/Hydro-Nutri)
+- [Macro](https://github.com/Project-X-Yonsei/Macro)
+- [Cheese](https://github.com/Project-X-Yonsei/Cheese)
+- [Taxi Sharing](https://github.com/Project-X-Yonsei/taxi-sharing)
+- [Doggy and Kitty](https://github.com/Project-X-Yonsei/doggy-and-kitty)
+- [Harmony](https://github.com/Project-X-Yonsei/harmony)
+
+
