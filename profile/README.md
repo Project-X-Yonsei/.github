@@ -3,6 +3,11 @@
 **Project X** is a student-driven club at Yonsei University that empowers students to turn their entrepreneurial ideas into reality.  
 From ideation to development and marketing, our members experience the entire process of building and running a service, equipping them with practical skills and experience for future endeavors.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cccd754d-d1d8-4577-a11f-db53e5362dae" width="300" alt="이미지">
+</p>
+
+
 ---
 
 ## 🌟 About Us
